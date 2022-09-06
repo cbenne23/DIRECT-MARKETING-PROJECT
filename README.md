@@ -1,2 +1,4 @@
 # MARKETING-PROJECT
 Built a predictive machine-learning model to determine whether a prospect with open a term deposit
+Problem Definition and Data Description
+The modeling problem upon which the tutorial is based is drawn from the Marketing Analytics domain, specifically direct marketing. The data is related to direct marketing campaigns of a Portuguese banking institution. The modeling problem is of the classification variety and attempts to estimate the likelihood of a client subscribing(opening) to a term deposit. The marketing campaigns were based on phone calls. Often, more than one contact to the same client was required, in order to access if the product (bank term deposit) would be ('yes') or not ('no') subscribed. A detailed description(data dictionary or meta data) of the data used in this project may be found herehttps://archive.ics.uci.edu/ml/datasets/Bank+Marketing
